@@ -9,3 +9,15 @@ D:\fullStack course\backend\8. MVC\GymApp-3-Tier\GymApp\GymApp.Shared\obj\Debug\
 D:\fullStack course\backend\8. MVC\GymApp-3-Tier\GymApp\GymApp.Shared\obj\Debug\net9.0\refint\GymApp.Shared.dll
 D:\fullStack course\backend\8. MVC\GymApp-3-Tier\GymApp\GymApp.Shared\obj\Debug\net9.0\GymApp.Shared.pdb
 D:\fullStack course\backend\8. MVC\GymApp-3-Tier\GymApp\GymApp.Shared\obj\Debug\net9.0\ref\GymApp.Shared.dll
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\bin\Debug\net9.0\GymApp.Shared.deps.json
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\bin\Debug\net9.0\GymApp.Shared.dll
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\bin\Debug\net9.0\GymApp.Shared.pdb
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\obj\Debug\net9.0\GymApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\obj\Debug\net9.0\GymApp.Shared.AssemblyInfoInputs.cache
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\obj\Debug\net9.0\GymApp.Shared.AssemblyInfo.cs
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\obj\Debug\net9.0\GymApp.Shared.csproj.CoreCompileInputs.cache
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\obj\Debug\net9.0\GymApp.Shared.sourcelink.json
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\obj\Debug\net9.0\GymApp.Shared.dll
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\obj\Debug\net9.0\refint\GymApp.Shared.dll
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\obj\Debug\net9.0\GymApp.Shared.pdb
+D:\fullStack course\backend\8. MVC\GymApp-MVC\GymApp\GymApp.Shared\obj\Debug\net9.0\ref\GymApp.Shared.dll

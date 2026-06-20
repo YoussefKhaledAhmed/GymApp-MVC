@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj": {}
+    "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj": {}
   },
   "projects": {
-    "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj": {
+    "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj",
+        "projectUniqueName": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj",
         "projectName": "GymApp.BusinessLogic",
-        "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj",
+        "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\youss\\.nuget\\packages\\",
-        "outputPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\obj\\",
+        "outputPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj": {
-                "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj"
+              "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj": {
+                "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj"
               },
-              "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj": {
-                "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj"
+              "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj": {
+                "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj": {
+    "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj",
+        "projectUniqueName": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj",
         "projectName": "GymApp.DataAccess",
-        "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj",
+        "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\youss\\.nuget\\packages\\",
-        "outputPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.DataAccess\\obj\\",
+        "outputPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj": {
-                "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj"
+              "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj": {
+                "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj"
               }
             }
           }
@@ -163,14 +163,14 @@
         }
       }
     },
-    "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj": {
+    "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj",
+        "projectUniqueName": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj",
         "projectName": "GymApp.Shared",
-        "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj",
+        "projectPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\GymApp.Shared.csproj",
         "packagesPath": "C:\\Users\\youss\\.nuget\\packages\\",
-        "outputPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\obj\\",
+        "outputPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

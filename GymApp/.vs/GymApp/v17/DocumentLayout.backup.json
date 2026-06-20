@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\",
+  "WorkspaceRootPath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.presentation\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.presentation\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|solutionrelative:gymapp.presentation\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.presentation\\views\\shared\\_validationscripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|solutionrelative:gymapp.presentation\\views\\shared\\_validationscripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.presentation\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|solutionrelative:gymapp.presentation\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.presentation\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.presentation\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|solutionrelative:gymapp.presentation\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.businesslogic\\services\\memberservices\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|solutionrelative:gymapp.businesslogic\\services\\memberservices\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.businesslogic\\services\\dtos\\members\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|solutionrelative:gymapp.businesslogic\\services\\dtos\\members\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{431D01AD-7391-4E14-BE3C-76109A171D0B}|GymApp.Shared\\GymApp.Shared.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.shared\\resultpattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{431D01AD-7391-4E14-BE3C-76109A171D0B}|GymApp.Shared\\GymApp.Shared.csproj|solutionrelative:gymapp.shared\\resultpattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.presentation\\viewmodels\\members\\membercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|solutionrelative:gymapp.presentation\\viewmodels\\members\\membercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.presentation\\viewmodels\\healthrecord\\healthrecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|solutionrelative:gymapp.presentation\\viewmodels\\healthrecord\\healthrecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.businesslogic\\services\\dtos\\healthrecords\\healthrecordsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|solutionrelative:gymapp.businesslogic\\services\\dtos\\healthrecords\\healthrecordsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.businesslogic\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|solutionrelative:gymapp.businesslogic\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB008CFA-37D2-4B56-B1E4-FF7B58818950}|GymApp.DataAccess\\GymApp.DataAccess.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.dataaccess\\data\\configurations\\healthrecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB008CFA-37D2-4B56-B1E4-FF7B58818950}|GymApp.DataAccess\\GymApp.DataAccess.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.dataaccess\\data\\configurations\\healthrecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB008CFA-37D2-4B56-B1E4-FF7B58818950}|GymApp.DataAccess\\GymApp.DataAccess.csproj|solutionrelative:gymapp.dataaccess\\data\\configurations\\healthrecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{431D01AD-7391-4E14-BE3C-76109A171D0B}|GymApp.Shared\\GymApp.Shared.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-3-tier\\gymapp\\gymapp.shared\\enums\\bloodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.presentation\\views\\shared\\_validationscripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|solutionrelative:gymapp.presentation\\views\\shared\\_validationscripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.businesslogic\\services\\memberservices\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|solutionrelative:gymapp.businesslogic\\services\\memberservices\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.businesslogic\\services\\dtos\\members\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|solutionrelative:gymapp.businesslogic\\services\\dtos\\members\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431D01AD-7391-4E14-BE3C-76109A171D0B}|GymApp.Shared\\GymApp.Shared.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.shared\\resultpattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431D01AD-7391-4E14-BE3C-76109A171D0B}|GymApp.Shared\\GymApp.Shared.csproj|solutionrelative:gymapp.shared\\resultpattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.presentation\\viewmodels\\healthrecord\\healthrecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9A44DF-7362-4F35-8BFA-7D59F18B5E36}|GymApp.Presentation\\GymApp.Presentation.csproj|solutionrelative:gymapp.presentation\\viewmodels\\healthrecord\\healthrecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.businesslogic\\services\\dtos\\healthrecords\\healthrecordsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|solutionrelative:gymapp.businesslogic\\services\\dtos\\healthrecords\\healthrecordsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.businesslogic\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F46E31E-1EAF-4CBF-95A0-B4F78012A444}|GymApp.BusinessLogic\\GymApp.BusinessLogic.csproj|solutionrelative:gymapp.businesslogic\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431D01AD-7391-4E14-BE3C-76109A171D0B}|GymApp.Shared\\GymApp.Shared.csproj|d:\\fullstack course\\backend\\8. mvc\\gymapp-mvc\\gymapp\\gymapp.shared\\enums\\bloodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{431D01AD-7391-4E14-BE3C-76109A171D0B}|GymApp.Shared\\GymApp.Shared.csproj|solutionrelative:gymapp.shared\\enums\\bloodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 167,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,89 +67,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_ValidationScripts.cshtml",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Presentation\\Views\\Shared\\_ValidationScripts.cshtml",
-              "RelativeDocumentMoniker": "GymApp.Presentation\\Views\\Shared\\_ValidationScripts.cshtml",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Presentation\\Views\\Shared\\_ValidationScripts.cshtml",
-              "RelativeToolTip": "GymApp.Presentation\\Views\\Shared\\_ValidationScripts.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Presentation\\Views\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "GymApp.Presentation\\Views\\Members\\Index.cshtml",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Presentation\\Views\\Members\\Index.cshtml",
+              "RelativeToolTip": "GymApp.Presentation\\Views\\Members\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-20T09:35:43.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Result.cs",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\ResultPattern\\Result.cs",
-              "RelativeDocumentMoniker": "GymApp.Shared\\ResultPattern\\Result.cs",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\ResultPattern\\Result.cs",
-              "RelativeToolTip": "GymApp.Shared\\ResultPattern\\Result.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T18:30:38.807Z",
+              "WhenOpened": "2026-06-20T11:44:14.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Presentation\\Views\\Members\\Create.cshtml",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Presentation\\Views\\Members\\Create.cshtml",
               "RelativeDocumentMoniker": "GymApp.Presentation\\Views\\Members\\Create.cshtml",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Presentation\\Views\\Members\\Create.cshtml",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Presentation\\Views\\Members\\Create.cshtml",
               "RelativeToolTip": "GymApp.Presentation\\Views\\Members\\Create.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAJcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-19T18:08:23.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MemberService.cs",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\Services\\MemberServices\\MemberService.cs",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\Services\\MemberServices\\MemberService.cs",
               "RelativeDocumentMoniker": "GymApp.BusinessLogic\\Services\\MemberServices\\MemberService.cs",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\Services\\MemberServices\\MemberService.cs",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\Services\\MemberServices\\MemberService.cs",
               "RelativeToolTip": "GymApp.BusinessLogic\\Services\\MemberServices\\MemberService.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAASwC8AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T18:22:37.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T18:22:37.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MemberCreateViewModel.cs",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Presentation\\ViewModels\\Members\\MemberCreateViewModel.cs",
-              "RelativeDocumentMoniker": "GymApp.Presentation\\ViewModels\\Members\\MemberCreateViewModel.cs",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Presentation\\ViewModels\\Members\\MemberCreateViewModel.cs",
-              "RelativeToolTip": "GymApp.Presentation\\ViewModels\\Members\\MemberCreateViewModel.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowC0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T18:21:47.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "HealthRecordConfiguration.cs",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.DataAccess\\Data\\Configurations\\HealthRecordConfiguration.cs",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.DataAccess\\Data\\Configurations\\HealthRecordConfiguration.cs",
               "RelativeDocumentMoniker": "GymApp.DataAccess\\Data\\Configurations\\HealthRecordConfiguration.cs",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.DataAccess\\Data\\Configurations\\HealthRecordConfiguration.cs",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.DataAccess\\Data\\Configurations\\HealthRecordConfiguration.cs",
               "RelativeToolTip": "GymApp.DataAccess\\Data\\Configurations\\HealthRecordConfiguration.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T16:59:47.217Z"
+              "WhenOpened": "2026-06-16T16:59:47.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MembersController.cs",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Presentation\\Controllers\\MembersController.cs",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Presentation\\Controllers\\MembersController.cs",
               "RelativeDocumentMoniker": "GymApp.Presentation\\Controllers\\MembersController.cs",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Presentation\\Controllers\\MembersController.cs",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Presentation\\Controllers\\MembersController.cs",
               "RelativeToolTip": "GymApp.Presentation\\Controllers\\MembersController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-15T15:54:17.148Z",
               "EditorCaption": ""
@@ -157,36 +131,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MemberDto.cs",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\Services\\DTOs\\Members\\MemberDto.cs",
-              "RelativeDocumentMoniker": "GymApp.BusinessLogic\\Services\\DTOs\\Members\\MemberDto.cs",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\Services\\DTOs\\Members\\MemberDto.cs",
-              "RelativeToolTip": "GymApp.BusinessLogic\\Services\\DTOs\\Members\\MemberDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAewAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T18:22:07.004Z",
-              "EditorCaption": ""
+              "Title": "_ValidationScripts.cshtml",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Presentation\\Views\\Shared\\_ValidationScripts.cshtml",
+              "RelativeDocumentMoniker": "GymApp.Presentation\\Views\\Shared\\_ValidationScripts.cshtml",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Presentation\\Views\\Shared\\_ValidationScripts.cshtml",
+              "RelativeToolTip": "GymApp.Presentation\\Views\\Shared\\_ValidationScripts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T09:35:43.324Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "HealthRecordViewModel.cs",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Presentation\\ViewModels\\HealthRecord\\HealthRecordViewModel.cs",
-              "RelativeDocumentMoniker": "GymApp.Presentation\\ViewModels\\HealthRecord\\HealthRecordViewModel.cs",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Presentation\\ViewModels\\HealthRecord\\HealthRecordViewModel.cs",
-              "RelativeToolTip": "GymApp.Presentation\\ViewModels\\HealthRecord\\HealthRecordViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\ResultPattern\\Result.cs",
+              "RelativeDocumentMoniker": "GymApp.Shared\\ResultPattern\\Result.cs",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\ResultPattern\\Result.cs",
+              "RelativeToolTip": "GymApp.Shared\\ResultPattern\\Result.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T18:32:27.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T18:30:38.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberDto.cs",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\Services\\DTOs\\Members\\MemberDto.cs",
+              "RelativeDocumentMoniker": "GymApp.BusinessLogic\\Services\\DTOs\\Members\\MemberDto.cs",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\Services\\DTOs\\Members\\MemberDto.cs",
+              "RelativeToolTip": "GymApp.BusinessLogic\\Services\\DTOs\\Members\\MemberDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T18:22:07.004Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "HealthRecordViewModel.cs",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Presentation\\ViewModels\\HealthRecord\\HealthRecordViewModel.cs",
+              "RelativeDocumentMoniker": "GymApp.Presentation\\ViewModels\\HealthRecord\\HealthRecordViewModel.cs",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Presentation\\ViewModels\\HealthRecord\\HealthRecordViewModel.cs",
+              "RelativeToolTip": "GymApp.Presentation\\ViewModels\\HealthRecord\\HealthRecordViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T18:32:27.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HealthRecordsDto.cs",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\Services\\DTOs\\HealthRecords\\HealthRecordsDto.cs",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\Services\\DTOs\\HealthRecords\\HealthRecordsDto.cs",
               "RelativeDocumentMoniker": "GymApp.BusinessLogic\\Services\\DTOs\\HealthRecords\\HealthRecordsDto.cs",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\Services\\DTOs\\HealthRecords\\HealthRecordsDto.cs",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\Services\\DTOs\\HealthRecords\\HealthRecordsDto.cs",
               "RelativeToolTip": "GymApp.BusinessLogic\\Services\\DTOs\\HealthRecords\\HealthRecordsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,11 +190,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "GymApp.BusinessLogic\\ServiceCollectionExtensions.cs",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.BusinessLogic\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.BusinessLogic\\ServiceCollectionExtensions.cs",
               "RelativeToolTip": "GymApp.BusinessLogic\\ServiceCollectionExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,9 +204,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "BloodType.cs",
-              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\Enums\\BloodType.cs",
+              "DocumentMoniker": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\Enums\\BloodType.cs",
               "RelativeDocumentMoniker": "GymApp.Shared\\Enums\\BloodType.cs",
-              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.Shared\\Enums\\BloodType.cs",
+              "ToolTip": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.Shared\\Enums\\BloodType.cs",
               "RelativeToolTip": "GymApp.Shared\\Enums\\BloodType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

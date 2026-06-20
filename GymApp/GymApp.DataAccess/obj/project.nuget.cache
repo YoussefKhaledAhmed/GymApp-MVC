@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9G/UPhUdHpk=",
+  "dgSpecHash": "VspCwvyfwzo=",
   "success": true,
-  "projectFilePath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-3-Tier\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj",
+  "projectFilePath": "D:\\fullStack course\\backend\\8. MVC\\GymApp-MVC\\GymApp\\GymApp.DataAccess\\GymApp.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\youss\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\youss\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

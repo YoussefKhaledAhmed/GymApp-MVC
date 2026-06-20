@@ -1,7 +1,21 @@
 ﻿@model MemberCreateViewModel;
 
+@{
+    bool? memberCreationFlag = TempData["MembersCreationIsSuccess"] as bool?;
+}
+
+
 <div class="container">
     <main role="main" class="pb-3">
+
+        @if (memberCreationFlag is false){
+            @* Show Error Message if Member Failed To Create *@
+            <div id="Alert" class="alert alert-danger alert-dismissible fade show">
+                <i class="bi bi-exclamation-triangle-fill me-2"></i>
+                Member Failed To Create
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            </div>
+        }
 
         <header class="mb-4">
             <h3 class="text-primary-color">Add Member</h3>
@@ -153,4 +167,6 @@
 
 @section Scripts{
     <partial name="_ValidationScripts.cshtml" />
+    <partial name= "_AlertDismissScript"/>
 }
+

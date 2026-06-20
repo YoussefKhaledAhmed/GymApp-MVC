@@ -67,20 +67,22 @@ public class MembersController(IMemberService memberService) : Controller
         };
 
         if (!ModelState.IsValid) {
-            ViewBag.IsSuccess = false;
             return View(memberViewModel);
         }
 
 
         var result = await _memberService.CreateAsync(memberDto, cancellationToken);
 
+        TempData["MembersCreationIsSuccess"] = result.IsSuccess;
+
         if (!result.IsSuccess)
         {
-            ViewBag.IsSuccess = result.IsSuccess;
             ModelState.AddModelError(result.ErrKey! , result.ErrMsg!);
             return View(memberViewModel);
         }
 
-        return RedirectToAction(nameof(Index), "Home");
+        
+
+        return RedirectToAction(nameof(Index), "Members");
     }
 }
